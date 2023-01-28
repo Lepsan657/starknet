@@ -1,0 +1,46 @@
+echo "# starknet" >> README.md
+git init
+git add README.md
+git commit echo "# starknet" >> README.md
+git init
+git add README.md
+git echo "# "# starknet" >> README.md
+git init
+git add README.md
+git commit -m " "# starknet" >> README.md
+git init
+git add README.md
+git commit -m  "# starknet" >> README.md
+git init
+git add README.md
+git commit -m "firstecho "# starknet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M mainfirstecho "# starknet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main "# starknet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main starknet" >> README.md
+git init
+git add README.md
+git commit -m "firstecho "# starknet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lepsan657/starknet.git
+git push -u origin main commit"
+git branch -M main
+git remote add origin https://github.com/Lepsan657/starknet.git
+git push -u origin main -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lepsan657/starknet.git
+git push -u origin mainm "first commit"
+git branch -M main
+git remote add origin https://github.com/Lepsan657/starknet.git
+git push -u origin main
